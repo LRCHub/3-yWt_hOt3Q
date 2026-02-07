@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "abcdefu（feat. Royal）",
+  "base_artist": "GAYLE",
+  "createdAt": "2026-02-07T03:17:00.610731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal & the Serpent)",
+      "artist": "GAYLE feat. Royal & the Serpent",
+      "has_synced": true,
+      "path": "select/01_abcdefu_(feat._Royal_&_the_Serpent)_GAYLE_feat._Royal_&_the_Serpent.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal & the Serpent)",
+      "artist": "GAYLE, Royal & the Serpent",
+      "has_synced": true,
+      "path": "select/02_abcdefu_(feat._Royal_&_the_Serpent)_GAYLE,_Royal_&_the_Serpent.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal & the Serpent)",
+      "artist": "GAYLE",
+      "has_synced": true,
+      "path": "select/03_abcdefu_(feat._Royal_&_the_Serpent)_GAYLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GAYLE - abcdefu (feat. Royal & the Serpent) visualizer",
+      "artist": "GAYLE",
+      "has_synced": true,
+      "path": "select/04_GAYLE_-_abcdefu_(feat._Royal_&_the_Serpent)_visualizer_GAYLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal & the Serpent)",
+      "artist": "GAYLE",
+      "has_synced": true,
+      "path": "select/05_abcdefu_(feat._Royal_&_the_Serpent)_GAYLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal)",
+      "artist": "GAYLE",
+      "has_synced": true,
+      "path": "select/06_abcdefu_(feat._Royal)_GAYLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal & the Serpent)",
+      "artist": "GAYLE\u0000Royal & the Serpent",
+      "has_synced": true,
+      "path": "select/07_abcdefu_(feat._Royal_&_the_Serpent)_GAYLE\u0000Royal_&_the_Serpent.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal & the Serpent)",
+      "artist": "GAYLE",
+      "has_synced": true,
+      "path": "select/08_abcdefu_(feat._Royal_&_the_Serpent)_GAYLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "abcdefu (feat. Royal & the Serpent)",
+      "artist": "GAYLE/Royal",
+      "has_synced": true,
+      "path": "select/09_abcdefu_(feat._Royal_&_the_Serpent)_GAYLE_Royal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "abcdefu",
+      "artist": "GAYLE",
+      "has_synced": false,
+      "path": "select/pl_01_abcdefu_GAYLE.txt"
+    }
+  ]
+}
